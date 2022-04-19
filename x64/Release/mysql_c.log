@@ -1,0 +1,4 @@
+﻿  ConexionBD.cpp
+  Puesto.cpp
+  mysql_c.cpp
+LINK : fatal error LNK1104: no se puede abrir el archivo 'C:\Users\JAVIER SOLIS\Documents\ARUN S\visual\mysql_c\x64\Release\mysql_c.exe'
